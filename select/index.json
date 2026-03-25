@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Fluorite",
+  "base_artist": "初星学園、Moe Shop、有村麻央",
+  "createdAt": "2026-03-25T09:42:54.492515Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fluorite Eye's Song",
+      "artist": "ヴィヴィ(Vo.八木海莉)",
+      "has_synced": true,
+      "path": "select/01_Fluorite_Eye's_Song_ヴィヴィ(Vo.八木海莉).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fluorite Eye's Song",
+      "artist": "ヴィヴィ(Vo.八木海莉)",
+      "has_synced": true,
+      "path": "select/02_Fluorite_Eye's_Song_ヴィヴィ(Vo.八木海莉).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fluorite Eye’s Song",
+      "artist": "ヴィヴィ (Vo.八木海莉)",
+      "has_synced": true,
+      "path": "select/03_Fluorite_Eye’s_Song_ヴィヴィ_(Vo.八木海莉).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "fluorite",
+      "artist": "DJ 490",
+      "has_synced": false,
+      "path": "select/04_fluorite_DJ_490.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fluorite",
+      "artist": "有村麻央(CV.七瀬つむぎ)",
+      "has_synced": true,
+      "path": "select/05_Fluorite_有村麻央(CV.七瀬つむぎ).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fluorite",
+      "artist": "初星学園、有村麻央",
+      "has_synced": true,
+      "path": "select/06_Fluorite_初星学園、有村麻央.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fluorite (instrumental)",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/07_Fluorite_(instrumental)_初星学園.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fluorite",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/08_Fluorite_初星学園.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fluorite",
+      "artist": "初星学園、Moe Shop、有村麻央",
+      "has_synced": true,
+      "path": "select/09_Fluorite_初星学園、Moe_Shop、有村麻央.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fluorite Eye's Song (From \"Vivy: Fluorite Eye's Song\") (English)",
+      "artist": "Mewsic",
+      "has_synced": true,
+      "path": "select/10_Fluorite_Eye's_Song_(From__Vivy__Fluorite_Eye's_Song_)_(English)_Mewsic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fluorite Eye's Song",
+      "artist": "八木海莉",
+      "has_synced": true,
+      "path": "select/11_Fluorite_Eye's_Song_八木海莉.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fluorite Eye's Song",
+      "artist": "ヴィヴィ",
+      "has_synced": true,
+      "path": "select/12_Fluorite_Eye's_Song_ヴィヴィ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fluorite",
+      "artist": "有村麻央",
+      "has_synced": true,
+      "path": "select/13_Fluorite_有村麻央.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fluorite [Instrumental]",
+      "artist": "有村麻央(CV.七瀬つむぎ)",
+      "has_synced": true,
+      "path": "select/14_Fluorite_[Instrumental]_有村麻央(CV.七瀬つむぎ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fluorite",
+      "artist": "初星学園、Moe Shop、有村麻央",
+      "has_synced": false,
+      "path": "select/pl_01_Fluorite_初星学園、Moe_Shop、有村麻央.txt"
+    }
+  ]
+}
